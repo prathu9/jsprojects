@@ -120,7 +120,23 @@ button:active{
         margin:auto 10px;
     }
 
+    .fa-quote-left{
+        font-size:2.75rem;
+    }
+
     .quote-text{
-        font-size:2.5rem;
+        font-size:2rem;
+    }
+
+    .quote-author{
+        font-size:1.5rem;
+    }
+
+    .button-container{
+        margin-top:20px;
+    }
+
+    button{
+        font-size:1.2rem;
     }
 }
