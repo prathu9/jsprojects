@@ -1,1 +1,3 @@
-This Projects are built using HTML, CSS, Javascript.
+Quote Generator
+
+Randomly generate quote and share it on twitter.
