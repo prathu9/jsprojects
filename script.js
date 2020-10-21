@@ -81,4 +81,4 @@ const tryAgainMessage = ()=>{
 //Event Listeners
 nextQuoteBtn.addEventListener("click",getQuoteFromAPI);
 twitterBtn.addEventListener("click",tweetQuote);
-tryAgain.addEventListener("click",getQuoteFromAPI);
+tryAgainBtn.addEventListener("click",getQuoteFromAPI);
